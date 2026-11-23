@@ -1,8 +1,13 @@
-<img src="assets/icon.svg" width="64" height="64" alt="">
+# YNAB Helpers Chrome Extension
 
-# ynab-helpers
+This makes it much easier to categorize Amazon and Venmo transactions in YNAB
 
-Chrome extension that fills empty YNAB memos for:
+<img width="1281" height="732" alt="image" src="https://github.com/user-attachments/assets/6e04664d-3b65-4a8b-812a-4aa0d97ef508" />
+
+<img width="1282" height="732" alt="image" src="https://github.com/user-attachments/assets/b9830250-ecdc-4175-8d51-2571cf78fe27" />
+
+
+
 
 - **Amazon** transactions: the product names, ship-to name and city, orderer,
   and a link to the order.
